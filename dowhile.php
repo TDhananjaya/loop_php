@@ -4,7 +4,7 @@
 </head>
 <body>
 	<?php 
-	// Do whele
+	// Do while
 	$x=1;
 		do {
 			echo "true<br>";
