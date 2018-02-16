@@ -4,7 +4,7 @@
 </head>
 <body>
 	<?php 
-	// for each
+	// foreach
 	$array = array("Daniel","Jane","Jacob" );
 				
 				foreach ($array as $loopdata) {
